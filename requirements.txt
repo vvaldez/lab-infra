@@ -1,4 +1,4 @@
-ansible==2.9.13
+ansible==2.10.0
 apypie
 netaddr==0.7.18
 # Had to install libcurl4-openssl-dev (on debian system) to install this to
